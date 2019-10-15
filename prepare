@@ -1,5 +1,9 @@
 install libsodium before use script of teddysun
-https://github.com/RubyCrypto/rbnacl/wiki/Installing-libsodium
-which I have forked
 
-refer to wiki of that repository to check detail installation
+install failed reason:
+
+no compile found:
+
+solution:
+install gcc
+yum -y install gcc
